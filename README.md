@@ -1,7 +1,7 @@
 # YOGA
 
 
-<img src="mokup" width="350px" alt="mokup-mobile">
+<img src="./assets/mokup.png" width="350px" alt="mokup-mobile">
 
 > Yoga Interface.
 
@@ -28,10 +28,10 @@ Para instalar o <Yoga> baixe o app.
 
 
 <table>
-  <tr>
+  <td>
     <td align="center">
       <a href="#">
-        <img src="selma-2.png" width="100px;" alt="Foto de selma dias"/><br>
+        <img src="./assets/selma-2.png" width="100px;" alt="Foto de selma dias"/><br>
         <sub>
           <b>Selma Dias</b>
         </sub>
@@ -39,8 +39,8 @@ Para instalar o <Yoga> baixe o app.
     </td>
     
         
-    </td>
-  </tr>
+   
+ 
 </table>
 
 
